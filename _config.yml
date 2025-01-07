@@ -11,9 +11,9 @@ title                    : "Ashwani Koul"
 title_separator          : "-"
 name                     : &name "Ashwani Koul"
 description              : &description "PhD. Student at LiU"
-url                      : https://ateacup649.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ashkoul.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ateacup649.github.io/"
+repository               : "ashkoul.github.io/"
 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -85,14 +85,14 @@ author:
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=NljRoewAAAAJ&hl=en"
   email            : "ashwani.koul@liu.se"
-  uri              : 
+  uri              : "https://liu.se/en/employee/ashko26"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "ATeaCup649"
+  github           : "ASHKoul"
   google_plus      :
   keybase          :
   instagram        : https://www.instagram.com/wanderer.ask/?igsh=amMzd2lpbWU0cHFr
