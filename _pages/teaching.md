@@ -10,7 +10,7 @@ author_profile: true
 ## Teaching
 
  **Linköping University**
-* TA for Basic Control Courses TSRT22 and TSRT19 (HT23, HT24). 
+* TA for Basic Control Courses TSRT22 and TSRT19 (HT23, HT24), TSRT21 (VT25). 
 * TA for Project Course: TSRT10 (HT23).
 
 ## Master Thesis Supervision
