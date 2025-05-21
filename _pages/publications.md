@@ -17,7 +17,7 @@ author_profile: true
 
 ## 🎤 Conference Papers
 
-1. GH William Nordström, Magnus Malmström, Niclas Granström, Patrik Hedström,**A. Koul** and Gustaf Hendeby, "Long-term evolution-based time synchronization in distributed sensor networks," *Proceedings of 28th IEEE International Conference on Information Fusion*, Rio de Janerio, Brazil, July 7–11, 2025. [Link if available]
+1. GH William Nordström, Magnus Malmström, Niclas Granström, Patrik Hedström, **A. Koul** and Gustaf Hendeby, "Long-term evolution-based time synchronization in distributed sensor networks," *Proceedings of 28th IEEE International Conference on Information Fusion*, Rio de Janerio, Brazil, July 7–11, 2025. [Link if available]
 
 2. G. V. Anand, **A. Koul**, S. Gurugopinath and P. V. Nagesha, "Residual Data Vector Method of Underwater Acoustic Source Localization by a Three-Dimensional Array," *OCEANS 2022 - Chennai*, Chennai, India, 2022, pp. 1–6 [[IEEE](https://ieeexplore.ieee.org/document/9775269)].
 
