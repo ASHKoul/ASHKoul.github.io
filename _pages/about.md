@@ -30,6 +30,7 @@ _Research collaborations from both industry and academia are highly welcomed. If
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+   <li> </b>[June, 2025]</b> Our paper has been accepted for OCEANS-25, Greate Lakes [Preprint](https://arxiv.org/abs/2506.13330).
     <li> <b>[June, 2025]</b>. Lund Control Conference </li>
    <li> <b>[Oct, 2024]</b>. WASP AI Sweden-Japan Workshop </li>
    
