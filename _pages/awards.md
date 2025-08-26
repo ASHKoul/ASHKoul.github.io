@@ -3,20 +3,27 @@ permalink: /awards/
 title: ""
 excerpt: "Awards & Honors"
 author_profile: true
-
 ---
+
 # <i class="fa fa-fw fa-trophy"></i> Awards & Honors
 
-* First Class Graduate in Masters, DIAT [2018]
-  
-*  Graduate Aptitude test, GATE [2015]; **(Top 1%)**
+- **First Class Graduate (M.Tech.)**, Defence Institute of Advanced Technology (DIAT) *(2018)*  
+  Graduated with distinction in Master’s studies in [your specialization, e.g., Signal Processing].
 
-* First Class Graduate in Bachelors, MU  [2011]
+- **Graduate Aptitude Test in Engineering (GATE)** *(2015)*  
+  Achieved a score in the **top 1% nationwide**.
 
-* Indian Oil education scholarship for meritorious students [2011-15].
+- **First Class Graduate (B.E.)**, Mumbai University (MU) *(2011)*  
+  Awarded First Class with Honours in Bachelor’s studies.
 
-* **3rd** and **5th** rank in Mathematics and Physics respectively in JK [2011].
+- **Indian Oil Corporation Education Scholarship** *(2011–2015)*  
+  Merit-based national scholarship supporting undergraduate study.
 
-* National Standard Examination in Astronomy - **(Top 1%)**
+- **State Ranks: 3rd in Mathematics, 5th in Physics**, Jammu & Kashmir *(2011)*  
+  Recognized for outstanding academic performance at the state level.
 
-* Department of Science and Technology Scholarship, Govt. of JK [2010]
+- **National Standard Examination in Astronomy (NSEA)** *(2011)*  
+  Ranked in the **top 1% nationally** in this prestigious Olympiad.
+
+- **Department of Science and Technology (DST) Scholarship**, Government of Jammu & Kashmir *(2010)*  
+  Awarded for academic excellence in science and mathematics.
