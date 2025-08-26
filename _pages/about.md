@@ -15,9 +15,7 @@ My research interests include:
 
 * Detection and Estimation
 * SONAR Systems
-* RADAR Systems
 * Communication Systems
-* Wireless Systems
 * Sensor Fusion
 * Tracking
 * Underwater Acoustics
