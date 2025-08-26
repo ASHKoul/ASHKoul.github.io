@@ -4,8 +4,6 @@ main:
     url: /
   - title: "Publications"
     url: /publications/
-  - title: "Results & Analyses"
-    url: /results/
   - title: "Teaching"
     url: /teaching/
   - title: "Awards"
