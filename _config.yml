@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Ashwani Koul"
   avatar           : "image_pic.jpg"
-  avatar_shape     : square
-  avatar_size      : 200  # in pixels
+  avatar_shape     : "square"
+  avatar_size      : "200"  # in pixels
   bio              : "*Tat Tvam Asi*- You are That – the ultimate reality"
   location         : "Linköping, Sweden"
   employer         : 
