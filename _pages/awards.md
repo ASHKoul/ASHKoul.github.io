@@ -8,12 +8,12 @@ author_profile: true
 # <i class="fa fa-fw fa-trophy"></i> Awards & Honors
 
 - **First Class Graduate (M.Tech.)**, Defence Institute of Advanced Technology (DIAT) *(2018)*  
-  Graduated with distinction in Master’s studies in [your specialization, e.g., Signal Processing].
+  Graduated with distinction in Master’s studies in Signal Processing and Communication.
 
 - **Graduate Aptitude Test in Engineering (GATE)** *(2015)*  
   Achieved a score in the **top 1% nationwide**.
 
-- **First Class Graduate (B.E.)**, Mumbai University (MU) *(2011)*  
+- **First Class Graduate (B.E.)**, Mumbai University (MU) *(2015)*  
   Awarded First Class with Honours in Bachelor’s studies.
 
 - **Indian Oil Corporation Education Scholarship** *(2011–2015)*  
