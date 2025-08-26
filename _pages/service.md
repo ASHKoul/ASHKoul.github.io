@@ -12,7 +12,6 @@ toc: true
 - **IEEE International Conference on Systems, Man, and Cybernetics (SMC)**
 
 ## Journals
-- *(Add items like this when ready)*
   <!-- Example format:
   - **IEEE Journal of Oceanic Engineering**, *Reviewer*, **2024–present**
   -->
