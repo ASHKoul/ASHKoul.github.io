@@ -9,7 +9,7 @@ toc: true
 # Reviewing
 
 ## Conferences
-- **IEEE International Conference on Systems, Man, and Cybernetics (SMC)**, *Reviewer*, **2025**
+- **IEEE International Conference on Systems, Man, and Cybernetics (SMC)**
 
 ## Journals
 - *(Add items like this when ready)*
