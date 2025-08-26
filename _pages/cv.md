@@ -58,42 +58,42 @@ redirect_from:
 [//]: # (<img src="https://williamlwj.github.io/About/images/purdue.jpg" alt="Purdue" width="100"/> <img src="https://williamlwj.github.io/About/images/CUHK.jpg" alt="CUHK" width="100"/><img src="https://williamlwj.github.io/About/images/upenn.png" alt="Upenn" width="100"/><img src="https://williamlwj.github.io/About/images/sensetime.jpg" alt="Sensetime" width="100"/>)
 
 ## Education ##
-* **Linköping University**
-  * Ph.D. in Electrical Engineering, 2023-Present
+* **Linköping University [2023 - Present]**
+  * Ph.D. in Electrical Engineering. 
   * Advisors: [Isaac Skog](https://www.kth.se/profile/skog?l=sv) (KTH) and [Gustaf Hendeby](https://www.hendeby.se/) (LiU)
 
-* **Defence Institute of Advanced Technology, India**
-  * M.Tech. in ELectonics and Communication, 2018. **First Class**
+* **Defence Institute of Advanced Technology, India. [2016 - 2018]**
+  * M.Tech. in Electronics and Communication, **First Class**
   * Advisor: [Emeritus Prof. G.V. Anand](https://ieeexplore.ieee.org/author/37298180400)
   
   
-* **Mumbai University**
-  * B.Tech. in Electronics, 2011-15. **First Class** 
+* **Mumbai University [2011 - 2015]**
+  * B.Tech. in Electronics. **First Class** 
   
 
 
 ## Work Experience
-**Doctoral Student (_August 2023 - Present_)**
-- Working to find methods for efficient joint sensing and communication in underwater taget position estimation.
+**Doctoral Student [August 2023 - Present]**
+- Working to find methods for efficient joint sensing and communication in underwater target position estimation.
 
-**Research Assistant (_July 2021 - March 2023_)**
-- Conducted research on finding fast and robust methods for the underwater acoustic source localization.
+**Research Assistant [July 2021 - March 2023]**
+- Conducted research on finding fast and robust methods for underwater acoustic source localization.
 
-**Research Assistant (_May 2019 - Jan 2021_)**
+**Research Assistant [May 2019 - Jan 2021]**
 - The objective was to devise robust speech signal techniques for underwater communication between submarines and surface stations.
 
-**Research Assistant (_Dec 2018 - Nov 2020_)**
+**Research Assistant [Dec 2018 - Nov 2020]**
 - Study of Algorithms for Various Applications in SONAR Signal Processing.
 
-**Research Assistant (_July 2017 - May 2018_)**
+**Research Assistant [July 2017 - May 2018]**
 - Compressed Sensing Techniques Application to Underwater Acoustic Source Localization.
 
 ## Granted Projects
-### Algorithms for Fast Computation of Principal Components for Self Noise Cancellation in Underwater Acoustics (2020).
-- Funded by  Defence Research and Development Organization for (DRDO).
+### Algorithms for Fast Computation of Principal Components for Self-Noise Cancellation in Underwater Acoustics [2020].
+- Funded by  the Defence Research and Development Organization (DRDO).
 - Project within the NPOL, DRDO, India.
 - Project Cost: 49,96,136 INR.
-- Roles: Problem formulation, and writing the grant proposal with Dr. Nathwani . PI: Karan Nathwani 
+- Roles: Problem formulation and writing the grant proposal with Dr. Nathwani. PI: Karan Nathwani 
 
 
 
