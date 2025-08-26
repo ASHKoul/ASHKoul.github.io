@@ -1,14 +1,10 @@
 ---
 layout: single
-title: "Academic Services"
+title: "Academic Service"
 permalink: /service/
 author_profile: true
-toc: true
 ---
 
-## Reviewing (Conferences)
-- **[Conference/Venue]**, *Reviewer*, **[Year(s)]**  
-  Tracks: [signal processing / sonar / UWA] (if applicable).
+## Conferences
 
-- **[Conference/Venue]**, *Program Committee/Reviewer*, **[Year(s)]**  
-
+- **IEEE International Conference on Systems, Man, and Cybernetics (SMC)**, *Reviewer*, **2025**
