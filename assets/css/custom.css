@@ -5,30 +5,42 @@ html, body {
   font-family: "Times New Roman", Times, serif !important;
 }
 
-/* Code blocks stay monospace */
+/* Keep code blocks monospace */
 pre, code, kbd, samp {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
 }
 
-/* Full-width content */
+/* Layout: keep left sidebar, but make right content fill all remaining space */
 #main {
-  max-width: none !important;   /* remove theme limit */
+  display: flex;
+  flex-direction: row;
+  max-width: none !important;
   width: 100% !important;
   margin: 0 auto !important;
-  padding: 0 2rem;              /* some breathing room on sides */
+}
+
+.sidebar {
+  flex: 0 0 280px;   /* fixed sidebar width (adjust as needed) */
+  margin-right: 2rem;
+}
+
+.page {
+  flex: 1;           /* take all remaining width */
+  max-width: 100% !important;
 }
 
 .page__content {
   max-width: 100% !important;
   width: 100% !important;
+  padding-right: 2rem;
 }
 
-/* Typography tweaks for readability */
+/* Typography: tighter spacing for Times */
 .page__content p,
 .page__content li {
-  line-height: 1.4;     /* tighter spacing */
+  line-height: 1.45;    /* tighter spacing */
   font-size: 1rem;      /* normal Times size */
-  margin-bottom: 0.8em; /* smaller gap between paragraphs */
+  margin-bottom: 0.75em;
 }
 
 /* Headings */
