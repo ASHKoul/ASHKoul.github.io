@@ -1,56 +1,44 @@
 /* --- Ashwani custom overrides --- */
 
-/* 1) Global font: Times New Roman everywhere (keep code blocks monospace) */
+/* Global font: Times New Roman */
 html, body {
   font-family: "Times New Roman", Times, serif !important;
 }
+
+/* Code blocks stay monospace */
 pre, code, kbd, samp {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
 }
 
-/* 2) Make the right-side content wider on desktop */
-@media (min-width: 1024px) {
-  /* widen the overall container */
-  #main {
-    max-width: 1200px !important; /* increase or decrease if you want */
-  }
-  /* let the content stretch across the full right column */
-  .page__content {
-    max-width: 100% !important;
-  }
+/* Full-width content */
+#main {
+  max-width: none !important;   /* remove theme limit */
+  width: 100% !important;
+  margin: 0 auto !important;
+  padding: 0 2rem;              /* some breathing room on sides */
 }
 
-/* 3) Simple, readable typography tweaks (keeps theme style) */
 .page__content {
-  letter-spacing: 0.01rem;
+  max-width: 100% !important;
+  width: 100% !important;
 }
-.page__content p {
-  line-height: 1.75;
-  font-size: 1.06rem;
-  margin-bottom: 1.05em;
-}
+
+/* Typography tweaks for readability */
+.page__content p,
 .page__content li {
-  line-height: 1.7;
+  line-height: 1.4;     /* tighter spacing */
+  font-size: 1rem;      /* normal Times size */
+  margin-bottom: 0.8em; /* smaller gap between paragraphs */
 }
+
+/* Headings */
 .page__content h1,
 .page__content h2,
 .page__content h3,
 .page__content h4,
 .page__content h5,
 .page__content h6 {
-  font-weight: 600; /* classic Times look */
-  letter-spacing: 0.2px;
-  margin-top: 1.2em;
-  margin-bottom: 0.5em;
+  font-weight: 600;
+  margin-top: 1em;
+  margin-bottom: 0.4em;
 }
-
-/* Keep tables and figure captions readable */
-.page__content table {
-  font-size: 1rem;
-}
-.page__content figcaption {
-  font-style: italic;
-  font-size: 0.95rem;
-}
-
-/* Don’t change link colors; keep theme feel */
