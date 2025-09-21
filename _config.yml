@@ -9,8 +9,8 @@
 locale                   : "en"
 title                    : "Ashwani Koul"
 title_separator          : "-"
-name                     : &name "Ashwani Koul"
-description              : &description "PhD student, Linköping University — Underwater acoustic communications, sonar signal processing, detection & tracking"
+name                     : "Ashwani Koul"
+description              : &description "PhD student, Linköping University — Underwater acoustic, signal processing, Detection & Tracking"
 url                      : https://ashkoul.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ashkoul.github.io/"
@@ -261,6 +261,8 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jeykyll-sitemap
+  - jekyll-include-cache
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
