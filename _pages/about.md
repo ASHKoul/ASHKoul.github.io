@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 # <i class="fa fa-cog fa-fw"></i> About me #
-I am a PhD student at Linköping University, Sweden, specializing in signal processing with a focus on underwater acoustics. With a research background in underwater acoustics, parameter estimation, SONAR signal processing, and source localization, I am deeply invested in exploring the mathematical foundations of these fields. Their work is driven by a passion for solving real-time problems, with a particular emphasis on developing advanced algorithms and methodologies to enhance acoustic signal processing techniques in underwater environments. I am committed to pushing the boundaries of knowledge in this critical area, contributing to both academic research and practical applications. I am supervised by [Isaac Skog](https://www.kth.se/profile/skog?l=sv) (KTH) and [Gustaf Hendeby](https://www.hendeby.se/) (LiU).
+I am a PhD student at Linköping University, Sweden, specializing in signal processing with a focus on underwater acoustics. With a research background in underwater acoustics, parameter estimation, SONAR signal processing, and source localization, I am deeply invested in exploring the mathematical foundations of these fields. My work is driven by a passion for solving real-time problems, with a particular emphasis on developing advanced algorithms and methodologies to enhance acoustic signal processing techniques in underwater environments. I am committed to pushing the boundaries of knowledge in this critical area, contributing to both academic research and practical applications. I am supervised by [Isaac Skog](https://www.kth.se/profile/skog?l=sv) (KTH) and [Gustaf Hendeby](https://www.hendeby.se/) (LiU).
 
 
 My research interests include:
