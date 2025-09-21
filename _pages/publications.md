@@ -30,4 +30,4 @@ author_profile: true
 - **A. Koul**, G. V. Anand, S. Gurugopinath and K. Nathwani, "Three-Dimensional Underwater Acoustic Source Localization by Sparse Signal Reconstruction Techniques", *International Conference on Signal Processing and Communications (SPCOM)*, Bangalore, India, 2020. [[IEEE](https://ieeexplore.ieee.org/document/9179579)].
 
 ##  Thesis
-NNF best thesis award, and received the Nordic Navigation Board’s annual scholarship for his thesis in the field of navigation (Role: Supervisor) [<a href="https://lnkd.in/dThc2yUx ">Thesis</a>].
+- NNF best thesis award, and received the Nordic Navigation Board’s annual scholarship for his thesis in the field of navigation (Role: Supervisor) [<a href="https://lnkd.in/dThc2yUx ">Thesis</a>].
