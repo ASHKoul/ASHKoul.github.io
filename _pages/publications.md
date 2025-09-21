@@ -28,3 +28,6 @@ author_profile: true
 - **A. Koul**, M. Ali and K. Nathwani, "Differential Subspace Re-weighted Modelling for UWA Source Localization at Low SNRs", *OCEANS: San Diego – Porto*, San Diego, CA, USA, 2021. [[IEEE](https://ieeexplore.ieee.org/document/9705716)].
 
 - **A. Koul**, G. V. Anand, S. Gurugopinath and K. Nathwani, "Three-Dimensional Underwater Acoustic Source Localization by Sparse Signal Reconstruction Techniques", *International Conference on Signal Processing and Communications (SPCOM)*, Bangalore, India, 2020. [[IEEE](https://ieeexplore.ieee.org/document/9179579)].
+
+##  Thesis
+NNF best thesis award, and received the Nordic Navigation Board’s annual scholarship for his thesis in the field of navigation (Role: Supervisor) [<a href="https://lnkd.in/dThc2yUx ">Thesis</a>].
