@@ -19,7 +19,7 @@ author_profile: true
 - **Indian Oil Corporation Education Scholarship** [2011–2015]  
   Merit-based national scholarship supporting undergraduate study.
 
-- **State Ranks: 3rd in Mathematics, 5th in Physics**, Jammu & Kashmir [2011] 
+- **State Ranks: 3rd in Mathematics, 5th in Physics**, Jammu & Kashmir [2011]                                                                                            
   Recognized for outstanding academic performance at the state level.
 
 - **National Standard Examination in Astronomy (NSEA)** [2011]  
