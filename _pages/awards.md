@@ -10,7 +10,7 @@ author_profile: true
 - **First Class Graduate (M.Tech.)**, Defence Institute of Advanced Technology (DIAT) [2018]  
   Graduated with distinction in Master’s studies in Signal Processing and Communication.
 
-- **Graduate Aptitude Test in Engineering (GATE)** [2015]
+- **Graduate Aptitude Test in Engineering (GATE)** [2015]                                                                                                                
   Achieved a score in the **top 1% nationwide**.
 
 - **First Class Graduate (B.E.)**, Mumbai University (MU) [2015]  
