@@ -1,0 +1,122 @@
+cv:
+  name: Ashwani Koul
+  label: PhD student in Electrical Engineering
+  email: ashwani.koul@liu.se
+  location: Linköping, Sweden
+  image: assets/img/ashwani-koul.jpg
+  summary: PhD student at Linköping University working on underwater acoustics, signal processing, detection, tracking, and localization.
+
+  social_networks:
+    - network: GitHub
+      username: ASHKoul
+    - network: LinkedIn
+      username: ashwani-koul-3945182ab
+
+  sections:
+    Education:
+      - institution: Linköping University
+        location: Linköping, Sweden
+        area: Electrical Engineering
+        studyType: Ph.D.
+        start_date: 2023
+        end_date: Present
+        highlights:
+          - Advisors: Isaac Skog (KTH) and Gustaf Hendeby (LiU).
+
+      - institution: Defence Institute of Advanced Technology
+        location: India
+        area: Electronics and Communication
+        studyType: M.Tech.
+        start_date: 2016
+        end_date: 2018
+        score: First Class
+        highlights:
+          - Advisor: Emeritus Prof. G.V. Anand.
+
+      - institution: Mumbai University
+        location: India
+        area: Electronics
+        studyType: B.Tech.
+        start_date: 2011
+        end_date: 2015
+        score: First Class
+
+    Experience:
+      - company: Linköping University
+        position: Doctoral Student
+        location: Linköping, Sweden
+        start_date: 2023-08
+        end_date: Present
+        highlights:
+          - Working on efficient joint sensing and communication methods for underwater target position estimation.
+
+      - company: Research Assistant
+        position: Underwater acoustic source localization
+        start_date: 2021-07
+        end_date: 2023-03
+        highlights:
+          - Conducted research on fast and robust methods for underwater acoustic source localization.
+
+      - company: Research Assistant
+        position: Underwater communication signal processing
+        start_date: 2019-05
+        end_date: 2021-01
+        highlights:
+          - Developed robust speech signal techniques for underwater communication between submarines and surface stations.
+
+      - company: Research Assistant
+        position: SONAR signal processing
+        start_date: 2018-12
+        end_date: 2020-11
+        highlights:
+          - Studied algorithms for applications in SONAR signal processing.
+
+      - company: Research Assistant
+        position: Compressed sensing for underwater acoustics
+        start_date: 2017-07
+        end_date: 2018-05
+        highlights:
+          - Applied compressed sensing techniques to underwater acoustic source localization.
+
+    Projects:
+      - name: Algorithms for Fast Computation of Principal Components for Self-Noise Cancellation in Underwater Acoustics
+        start_date: 2020
+        summary: Funded by the Defence Research and Development Organization (DRDO), within NPOL, DRDO, India.
+        highlights:
+          - "Project cost: 49,96,136 INR."
+          - "Role: problem formulation and grant proposal writing with Dr. Karan Nathwani."
+
+    Awards:
+      - title: First Class Graduate (M.Tech.)
+        date: 2018
+        awarder: Defence Institute of Advanced Technology
+        summary: Graduated with distinction in Signal Processing and Communication.
+
+      - title: Graduate Aptitude Test in Engineering (GATE)
+        date: 2015
+        summary: Achieved a score in the top 1% nationwide.
+
+      - title: First Class Graduate (B.E.)
+        date: 2015
+        awarder: Mumbai University
+
+      - title: Indian Oil Corporation Education Scholarship
+        date: 2011-2015
+        summary: Merit-based national scholarship supporting undergraduate study.
+
+      - title: State Ranks in Mathematics and Physics
+        date: 2011
+        summary: Ranked 3rd in Mathematics and 5th in Physics in Jammu & Kashmir.
+
+      - title: National Standard Examination in Astronomy (NSEA)
+        date: 2011
+        summary: Ranked in the top 1% nationally.
+
+      - title: Department of Science and Technology Scholarship
+        date: 2010
+        awarder: Government of Jammu & Kashmir
+
+    Interests:
+      - name: Research
+        icon: fa-solid fa-wave-square
+        keywords: "Underwater acoustics, signal processing, detection and estimation, SONAR systems, sensor fusion, tracking, communication systems"
