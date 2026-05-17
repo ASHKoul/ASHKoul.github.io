@@ -13,7 +13,6 @@ profile:
       <p class="profile-location">Linköping, Sweden</p>
       <p><a href="mailto:ashwani.koul@liu.se">ashwani.koul@liu.se</a></p>
       <p><a href="https://liu.se/en/employee/ashko26">Linköping University profile</a></p>
-      <p class="profile-visits"><img src="https://hits.sh/ashkoul.github.io.svg?label=page%20visits&color=2698ba&labelColor=1c1c1d" alt="Page visits"></p>
     </div>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"

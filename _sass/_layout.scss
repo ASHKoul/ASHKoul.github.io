@@ -81,7 +81,7 @@ body.sticky-bottom-footer {
 
 .profile img {
   display: block;
-  max-width: 190px;
+  max-width: 260px;
   margin: 0 auto;
   border: 1px solid var(--global-divider-color);
   padding: 3px;
@@ -113,17 +113,6 @@ body.sticky-bottom-footer {
   color: var(--global-text-color-light);
 }
 
-.profile .profile-visits {
-  margin-top: 0.55rem;
-}
-
-.profile .profile-visits img {
-  max-width: 150px;
-  padding: 0;
-  border: 0;
-  background: transparent;
-}
-
 @media (min-width: 992px) {
   .post,
   .page {
@@ -137,6 +126,38 @@ body.sticky-bottom-footer {
   .page p,
   .page li {
     font-size: 1rem;
+  }
+}
+
+.page-visit-badge {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 1030;
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 6px;
+  background: var(--global-bg-color);
+  box-shadow: 0 0.35rem 1rem rgba(0, 0, 0, 0.12);
+  line-height: 1;
+}
+
+.page-visit-badge img {
+  display: block;
+  width: auto;
+  height: 20px;
+}
+
+@media (max-width: 575px) {
+  .page-visit-badge {
+    right: 0.75rem;
+    bottom: 0.75rem;
+  }
+
+  .page-visit-badge img {
+    height: 18px;
   }
 }
 
