@@ -11,9 +11,9 @@ title                    : "Ashwani Koul"
 title_separator          : "-"
 name                     : "Ashwani Koul"
 description              : &description "PhD student, Linköping University — Underwater acoustic, signal processing, Detection & Tracking"
-url                      : https://ashkoul.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ashkoul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ashkoul.github.io/"
+repository               : "ASHKoul/ASHKoul.github.io"
 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -261,7 +261,6 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jeykyll-sitemap
   - jekyll-include-cache
 # mimic GitHub Pages with --safe
 whitelist:
