@@ -1,17 +1,20 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD student at Linköping University
 
 profile:
   align: right
   image: ashwani-koul.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>Linköping, Sweden</p>
-    <p><a href="mailto:ashwani.koul@liu.se">ashwani.koul@liu.se</a></p>
-    <p><a href="https://liu.se/en/employee/ashko26">LiU profile</a></p>
+    <div class="profile-meta">
+      <p class="profile-location">Linköping, Sweden</p>
+      <p><a href="mailto:ashwani.koul@liu.se">ashwani.koul@liu.se</a></p>
+      <p><a href="https://liu.se/en/employee/ashko26">Linköping University profile</a></p>
+      <p class="profile-visits"><img src="https://hits.sh/ashkoul.github.io.svg?label=page%20visits&color=2698ba&labelColor=1c1c1d" alt="Page visits"></p>
+    </div>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,13 +30,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at Linköping University, Sweden, specializing in signal processing with a focus on underwater acoustics. My research background includes underwater acoustics, parameter estimation, SONAR signal processing, and source localization.
+I am a PhD student at Linköping University, Sweden, specializing in signal processing for underwater acoustics. My research background includes parameter estimation, SONAR signal processing, and source localization.
 
-I am interested in mathematical and practical methods for reliable sensing, communication, and localization in challenging underwater environments. I am supervised by [Isaac Skog](https://www.kth.se/profile/skog?l=sv) (KTH) and [Gustaf Hendeby](https://www.hendeby.se/) (LiU).
+I am interested in mathematical and practical methods for reliable sensing, communication, and localization in challenging underwater environments. I am supervised by [Isaac Skog](https://www.kth.se/profile/skog?l=sv) at KTH and [Gustaf Hendeby](https://www.hendeby.se/) at Linköping University.
 
-Research collaborations from both industry and academia are welcome. If you are interested in underwater acoustics, signal processing, sensor fusion, or navigation, please feel free to reach out.
+I welcome research collaborations with both industry and academia. If you are interested in underwater acoustics, signal processing, sensor fusion, or navigation, please feel free to reach out.
 
-## Research interests
+## Research Interests
 
 - Detection and estimation
 - SONAR systems
