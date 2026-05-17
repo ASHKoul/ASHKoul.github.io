@@ -4,34 +4,34 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "journal and conference papers",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-academic-service",
-          title: "academic service",
+          title: "Academic Service",
           description: "reviewing and professional service",
           section: "Navigation",
           handler: () => {
             window.location.href = "/service/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
+        },{id: "nav-teaching-and-supervision",
+          title: "Teaching and Supervision",
           description: "teaching and thesis supervision",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-cv",
-          title: "CV",
+        },{id: "nav-curriculum-vitae",
+          title: "Curriculum Vitae",
           description: "education, experience, projects, and awards",
           section: "Navigation",
           handler: () => {
