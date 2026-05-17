@@ -14,6 +14,8 @@ body {
   color: var(--site-text);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
   font-size: 17px;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
 pre,
@@ -26,6 +28,7 @@ samp {
 a {
   color: var(--site-link);
   text-underline-offset: 0.16em;
+  overflow-wrap: break-word;
 }
 
 a:hover {
@@ -96,6 +99,10 @@ button:focus-visible {
   padding-right: 0 !important;
 }
 
+.page__content > *:first-child {
+  margin-top: 0;
+}
+
 .page__content p,
 .page__content li,
 .page__content dl {
@@ -111,10 +118,18 @@ button:focus-visible {
 .page__content ul,
 .page__content ol {
   padding-left: 1.35rem;
+  margin-top: 0.6rem;
+  margin-bottom: 1.15rem;
 }
 
 .page__content li {
   margin-bottom: 0.5rem;
+}
+
+.page__content li > ul,
+.page__content li > ol {
+  margin-top: 0.4rem;
+  margin-bottom: 0.65rem;
 }
 
 .page__content h1,
@@ -131,6 +146,7 @@ button:focus-visible {
 
 .page__content h1 {
   margin-top: 0;
+  margin-bottom: 1rem;
   font-size: clamp(1.7rem, 2vw, 2.15rem);
 }
 
@@ -143,7 +159,48 @@ button:focus-visible {
 
 .page__content h3 {
   margin-top: 1.6rem;
+  margin-bottom: 0.55rem;
   font-size: 1.1rem;
+}
+
+.page__content hr {
+  margin: 1.75rem 0;
+  border: 0;
+  border-top: 1px solid var(--site-border);
+}
+
+.page__content table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.page__content th,
+.page__content td {
+  padding: 0.65rem 0.75rem;
+  border: 1px solid var(--site-border);
+  vertical-align: top;
+}
+
+.page__content th {
+  background: var(--site-soft);
+  color: #1f2d36;
+  font-weight: 650;
+}
+
+.page__content img {
+  max-width: 100%;
+  height: auto;
+}
+
+.page__content sup {
+  line-height: 0;
+}
+
+.page__content .fa {
+  color: var(--site-muted);
 }
 
 .masthead {

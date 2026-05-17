@@ -10,5 +10,6 @@ toc: true
 
 ## Conferences
 - IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+- International Conference on Information Fusion (FUSION)
 
 
