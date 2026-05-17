@@ -1,15 +1,15 @@
 ---
-layout: single
-title: "Academic Service"
+layout: page
 permalink: /service/
-author_profile: true
-toc: true
+title: academic service
+description: reviewing and professional service
+nav: true
+nav_order: 3
 ---
 
-# Reviewing
+## Reviewing
 
-## Conferences
+### Conferences
+
 - IEEE International Conference on Systems, Man, and Cybernetics (SMC)
 - International Conference on Information Fusion (FUSION)
-
-
